@@ -1,2 +1,2 @@
-FROM postgres
+FROM postgres:latest@sha256:73a1c4e98fb961bb4a5c55ad6428470a3303bd3966abc442fe937814f6bbc002
 RUN echo "foo"
